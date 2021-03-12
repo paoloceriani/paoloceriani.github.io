@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "High School Professor"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Mathematics"
+permalink: 
+venue: "Liceo Scientifico Gb Grassi"
+date: 2018-04-02
+location: "Saronno, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Had the occasion to teach mathematics and physics to two brilliant classes of my old high school
 
 Heading 1
 ======
